@@ -1,0 +1,33 @@
+html{
+  background: #AF989C;
+}
+.login{
+  background-color: red;
+  width: 250px;
+  height: 290px;
+  margin: 0px auto;
+  margin-top: 150px;
+  background:linear-gradient(110deg,pink,green);
+  border-radius: 17px;
+
+}
+.login p{
+  font-size: 20px;
+  margin-left: 7px;
+}
+.login h1{
+  font-size: 30px;
+  text-align: center;
+}
+.login input{
+  margin-left: 5px;
+}
+.login button{
+ margin-left: 70px;
+ padding-left: 10px;
+ padding-right: 10px;
+}
+#heightt{
+  height: 410px;
+  width: 280px;
+}
